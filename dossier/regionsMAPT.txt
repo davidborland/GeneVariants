@@ -1,0 +1,54 @@
+start_type	end_type	refseq_feature_id	refseq_ver	transcr_ver_id	note	feature_type_type_name	loc_region_group_id	grouping_type	region_end	region_start	region_group_id
+exact	exact	1220474	48	NM_005910.5	upstream in-frame stop codon	misc_feature	1544108	single	316	314	1544108
+exact	exact	1220475	48	NM_005910.5	N-acetylalanine; propagated from UniProtKB/Swiss-Prot (P10636.5); acetylation site	misc_feature	1544109	single	328	326	1544109
+exact	exact	1220476	48	NM_005910.5	Not glycated; propagated from UniProtKB/Swiss-Prot (P10636.5); other site	misc_feature	1544110	single	394	392	1544110
+exact	exact	1220477	48	NM_005910.5	Not glycated; propagated from UniProtKB/Swiss-Prot (P10636.5); other site	misc_feature	1544111	single	454	452	1544111
+exact	exact	1220478	48	NM_005910.5	Phosphoserine, by PDPK; propagated from UniProtKB/Swiss-Prot (P10636.5); phosphorylation site	misc_feature	1544112	single	460	458	1544112
+exact	exact	1220479	48	NM_005910.5	Phosphothreonine, by PDPK; propagated from UniProtKB/Swiss-Prot (P10636.5); phosphorylation site	misc_feature	1544113	single	472	470	1544113
+exact	exact	1220480	48	NM_005910.5	Not glycated; propagated from UniProtKB/Swiss-Prot (P10636.5); other site	misc_feature	1544114	single	523	521	1544114
+exact	exact	1220481	48	NM_005910.5	phosphorylation site	misc_feature	1544115	single	691	689	1544115
+exact	exact	1220482	48	NM_005910.5	phosphorylation site	misc_feature	1544116	single	781	779	1544116
+exact	exact	1220483	48	NM_005910.5	phosphorylation site	misc_feature	1544117	single	847	845	1544117
+exact	exact	1220484	48	NM_005910.5	phosphorylation site	misc_feature	1544118	single	865	863	1544118
+exact	exact	1220485	48	NM_005910.5	phosphorylation site	misc_feature	1544119	single	907	905	1544119
+exact	exact	1220486	48	NM_005910.5	dephosphorylation site; modified site	misc_feature	1544120	single	916	914	1544120
+exact	exact	1220487	48	NM_005910.5	dephosphorylation site; modified site	misc_feature	1544121	single	919	917	1544121
+exact	exact	1220488	48	NM_005910.5	dephosphorylation site; modified site	misc_feature	1544122	single	928	926	1544122
+exact	exact	1220489	48	NM_005910.5	phosphorylation site	misc_feature	1544123	single	937	935	1544123
+exact	exact	1220490	48	NM_005910.5	phosphorylation site	misc_feature	1544124	single	946	944	1544124
+exact	exact	1220491	48	NM_005910.5	phosphorylation site	misc_feature	1544125	single	952	950	1544125
+exact	exact	1220492	48	NM_005910.5	phosphorylation site	misc_feature	1544126	single	958	956	1544126
+exact	exact	1220493	48	NM_005910.5	phosphorylation site	misc_feature	1544127	single	964	962	1544127
+exact	exact	1220494	48	NM_005910.5	phosphorylation site	misc_feature	1544128	single	973	971	1544128
+exact	exact	1220495	48	NM_005910.5	phosphorylation site	misc_feature	1544129	single	1015	1013	1544129
+exact	exact	1220496	48	NM_005910.5	phosphorylation site	misc_feature	1544130	single	1027	1025	1544130
+exact	exact	1220497	48	NM_005910.5	phosphorylation site	misc_feature	1544131	single	1033	1031	1544131
+exact	exact	1220498	48	NM_005910.5	phosphorylation site	misc_feature	1544132	single	1036	1034	1544132
+exact	exact	1220499	48	NM_005910.5	Tau and MAP protein, tubulin-binding repeat; Region: Tubulin-binding; pfam00418	misc_feature	1544133	single	1144	1049	1544133
+exact	exact	1220500	48	NM_005910.5	phosphorylation site	misc_feature	1544134	single	1096	1094	1544134
+exact	exact	1220501	48	NM_005910.5	phosphorylation site	misc_feature	1544135	single	1108	1106	1544135
+exact	exact	1220502	48	NM_005910.5	Tau and MAP protein, tubulin-binding repeat; Region: Tubulin-binding; pfam00418	misc_feature	1544136	single	1237	1145	1544136
+exact	exact	1220503	48	NM_005910.5	phosphorylation site	misc_feature	1544137	single	1201	1199	1544137
+exact	exact	1220504	48	NM_005910.5	phosphorylation site	misc_feature	1544138	single	1237	1235	1544138
+exact	exact	1220505	48	NM_005910.5	Tau and MAP protein, tubulin-binding repeat; Region: Tubulin-binding; pfam00418	misc_feature	1544139	single	1330	1238	1544139
+exact	exact	1220506	48	NM_005910.5	phosphorylation site	misc_feature	1544140	single	1282	1280	1544140
+exact	exact	1220507	48	NM_005910.5	phosphorylation site	misc_feature	1544141	single	1294	1292	1544141
+exact	exact	1220508	48	NM_005910.5	Tau and MAP protein, tubulin-binding repeat; Region: Tubulin-binding; pfam00418	misc_feature	1544142	single	1426	1331	1544142
+exact	exact	1220509	48	NM_005910.5	phosphorylation site	misc_feature	1544143	single	1378	1376	1544143
+exact	exact	1220510	48	NM_005910.5	phosphorylation site	misc_feature	1544144	single	1390	1388	1544144
+exact	exact	1220511	48	NM_005910.5	phosphorylation site	misc_feature	1544145	single	1441	1439	1544145
+exact	exact	1220512	48	NM_005910.5	phosphorylation site	misc_feature	1544146	single	1504	1502	1544146
+exact	exact	1220513	48	NM_005910.5	phosphorylation site	misc_feature	1544147	single	1510	1508	1544147
+exact	exact	1220514	48	NM_005910.5	phosphorylation site	misc_feature	1544148	single	1522	1520	1544148
+exact	exact	1220515	48	NM_005910.5	phosphorylation site	misc_feature	1544149	single	1531	1529	1544149
+exact	exact	1220516	48	NM_005910.5	phosphorylation site	misc_feature	1544150	single	1534	1532	1544150
+exact	exact	1220517	48	NM_005910.5	phosphorylation site	misc_feature	1544151	single	1549	1547	1544151
+exact	exact	1220518	48	NM_005910.5	phosphorylation site	misc_feature	1544152	single	1558	1556	1544152
+exact	exact	1220519	48	NM_005910.5	phosphorylation site	misc_feature	1544153	single	1561	1559	1544153
+exact	exact	1220520	48	NM_005910.5	phosphorylation site	misc_feature	1544154	single	1570	1568	1544154
+exact	exact	1220521	48	NM_005910.5	proteolytic cleavage site; modified site	misc_feature	1544155	single	1585	1583	1544155
+exact	exact	1220522	48	NM_005910.5	phosphorylation site	misc_feature	1544156	single	1588	1586	1544156
+exact	exact	1220523	48	NM_005910.5		polyA_signal	1544157	single	1883	1878	1544157
+exact	exact	1220524	48	NM_005910.5		polyA_site	1544158	single	1923	1923	1544158
+exact	exact	1220525	48	NM_005910.5		polyA_signal	1544159	single	5793	5788	1544159
+exact	exact	1220526	48	NM_005910.5		polyA_site	1544160	single	5811	5811	1544160

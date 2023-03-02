@@ -1,0 +1,37 @@
+start_type	end_type	refseq_feature_id	refseq_ver	transcr_ver_id	note	feature_type_type_name	loc_region_group_id	grouping_type	region_end	region_start	region_group_id
+exact	exact	1220332	48	NM_000454.4	upstream in-frame stop codon	misc_feature	1543966	single	142	140	1543966
+exact	exact	1220333	48	NM_000454.4	N-acetylalanine; propagated from UniProtKB/Swiss-Prot (P00441.2); acetylation site	misc_feature	1543967	single	154	152	1543967
+exact	exact	1220335	48	NM_000454.4	glycation site; glycosylation site	misc_feature	1543969	single	160	158	1543969
+exact	exact	1220336	48	NM_000454.4	E-class dimer interface [polypeptide binding]; other site	misc_feature	1543970	order	166	164	1543970
+exact	exact	1220336	48	NM_000454.4	E-class dimer interface [polypeptide binding]; other site	misc_feature	1543970	order	172	170	1543970
+exact	exact	1220336	48	NM_000454.4	E-class dimer interface [polypeptide binding]; other site	misc_feature	1543970	order	202	200	1543970
+exact	exact	1220336	48	NM_000454.4	E-class dimer interface [polypeptide binding]; other site	misc_feature	1543970	order	208	206	1543970
+exact	exact	1220336	48	NM_000454.4	E-class dimer interface [polypeptide binding]; other site	misc_feature	1543970	order	307	299	1543970
+exact	exact	1220336	48	NM_000454.4	E-class dimer interface [polypeptide binding]; other site	misc_feature	1543970	order	493	488	1543970
+exact	exact	1220337	48	NM_000454.4	glycation site; glycosylation site	misc_feature	1543971	single	178	176	1543971
+exact	exact	1220338	48	NM_000454.4	P-class dimer interface [polypeptide binding]; other site	misc_feature	1543972	order	241	239	1543972
+exact	exact	1220338	48	NM_000454.4	P-class dimer interface [polypeptide binding]; other site	misc_feature	1543972	order	415	413	1543972
+exact	exact	1220339	48	NM_000454.4	glycation site; glycosylation site	misc_feature	1543973	single	241	239	1543973
+exact	exact	1220340	48	NM_000454.4	glycation site; glycosylation site	misc_feature	1543974	single	259	257	1543974
+exact	exact	1220341	48	NM_000454.4	active site	misc_feature	1543975	order	289	287	1543975
+exact	exact	1220341	48	NM_000454.4	active site	misc_feature	1543975	order	295	293	1543975
+exact	exact	1220341	48	NM_000454.4	active site	misc_feature	1543975	order	340	338	1543975
+exact	exact	1220341	48	NM_000454.4	active site	misc_feature	1543975	order	391	389	1543975
+exact	exact	1220341	48	NM_000454.4	active site	misc_feature	1543975	order	400	398	1543975
+exact	exact	1220341	48	NM_000454.4	active site	misc_feature	1543975	order	511	509	1543975
+exact	exact	1220342	48	NM_000454.4	Cu2+ binding site [ion binding]; other site	misc_feature	1543976	order	289	287	1543976
+exact	exact	1220342	48	NM_000454.4	Cu2+ binding site [ion binding]; other site	misc_feature	1543976	order	295	293	1543976
+exact	exact	1220342	48	NM_000454.4	Cu2+ binding site [ion binding]; other site	misc_feature	1543976	order	340	338	1543976
+exact	exact	1220342	48	NM_000454.4	Cu2+ binding site [ion binding]; other site	misc_feature	1543976	order	511	509	1543976
+exact	exact	1220343	48	NM_000454.4	Zn2+ binding site [ion binding]; other site	misc_feature	1543977	order	340	338	1543977
+exact	exact	1220343	48	NM_000454.4	Zn2+ binding site [ion binding]; other site	misc_feature	1543977	order	364	362	1543977
+exact	exact	1220343	48	NM_000454.4	Zn2+ binding site [ion binding]; other site	misc_feature	1543977	order	391	389	1543977
+exact	exact	1220343	48	NM_000454.4	Zn2+ binding site [ion binding]; other site	misc_feature	1543977	order	400	398	1543977
+exact	exact	1220344	48	NM_000454.4	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P00441.2); phosphorylation site	misc_feature	1543978	single	445	443	1543978
+exact	exact	1220345	48	NM_000454.4	N6-acetyllysine; propagated from UniProtKB/Swiss-Prot (P00441.2); acetylation site	misc_feature	1543979	single	517	515	1543979
+exact	exact	1220346	48	NM_000454.4	glycation site; glycosylation site	misc_feature	1543980	single	535	533	1543980
+exact	exact	1220347	48	NM_000454.4		polyA_signal	1543981	single	696	691	1543981
+exact	exact	1220348	48	NM_000454.4		polyA_site	1543982	single	712	712	1543982
+exact	exact	1220349	48	NM_000454.4		polyA_signal	1543983	single	945	940	1543983
+exact	exact	1220350	48	NM_000454.4		polyA_site	1543984	single	961	961	1543984
+exact	exact	1220351	48	NM_000454.4		polyA_site	1543985	single	966	966	1543985

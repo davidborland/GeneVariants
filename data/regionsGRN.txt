@@ -1,0 +1,13 @@
+start_type	end_type	refseq_feature_id	refseq_ver	transcr_ver_id	note	feature_type_type_name	loc_region_group_id	grouping_type	region_end	region_start	region_group_id
+exact	exact	1218921	48	NM_002087.2	upstream in-frame stop codon	misc_feature	1542557	single	135	133	1542557
+exact	exact	1218922	48	NM_002087.2		sig_peptide	1542558	single	270	220	1542558
+#exact	exact	1218923	48	NM_002087.2	product:granulins	mat_peptide	1542559	single	1998	271	1542559
+exact	exact	1218924	48	NM_002087.2	Granulin; Region: Granulin; cl02546	misc_feature	1542560	single	555	412	1542560
+exact	exact	1218925	48	NM_002087.2	Granulin; Region: Granulin; cl02546	misc_feature	1542561	single	753	601	1542561
+exact	exact	1218926	48	NM_002087.2	Granulin; Region: Granulin; cl02546	misc_feature	1542562	single	999	847	1542562
+exact	exact	1218927	48	NM_002087.2	Granulin; Region: Granulin; cl02546	misc_feature	1542563	single	1224	1072	1542563
+exact	exact	1218928	48	NM_002087.2	Granulin; Region: Granulin; cl02546	misc_feature	1542564	single	1464	1348	1542564
+exact	exact	1218929	48	NM_002087.2	Granulin; Region: Granulin; cl02546	misc_feature	1542565	single	1704	1552	1542565
+exact	exact	1218930	48	NM_002087.2	Granulin; Region: Granulin; cl02546	misc_feature	1542566	single	1935	1783	1542566
+exact	exact	1218931	48	NM_002087.2		polyA_signal	1542567	single	2291	2286	1542567
+exact	exact	1218932	48	NM_002087.2		polyA_site	1542568	single	2305	2305	1542568
